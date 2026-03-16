@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Drishti! 👋
 
-<!--
-**drishtiheda2007/drishtiheda2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✍️ About Me
+🚀 I am a passionate developer who loves building scalable web applications and intelligent systems that solve real-world problems.
+🧠 As a deep learner, I focus on the exploring data patterns, AI logic to architect smarter software solutions.
+📖 Currently Learning to Expand into Full-Stack development with Node.js and mastering Advanced AI to build more intelligent systems.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tech Stack
+- **Languages:** Python, C, Java
+- **Web:** HTML5, CSS3, React.js, Node.js
+- **Databases:** MySQL
+- **Tools:** VS Code, Git, GitHub
+
+---
+
+### 📫 Connect with me
+* [LinkedIn](https://www.linkedin.com/in/drishti-heda-368ab8372/)
+* [Email](hedadrishti07@gmail.com)
